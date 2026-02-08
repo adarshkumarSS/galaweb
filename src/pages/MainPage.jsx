@@ -260,7 +260,7 @@ export default function MainPage({ isPlaying, toggleMusic }) {
             transition={{ delay: 1, duration: 1 }}
             style={{ fontSize: '1.5rem', color: '#fbcfe8', maxWidth: '600px', marginBottom: '2rem' }}
           >
-            To my bestie, my partner in crime, and the sister I got to choose. ✨
+            To my bestie, my partner in crime, and the love i choose. 🌹✨
           </motion.p>
           
           <GalentineCountdown />
